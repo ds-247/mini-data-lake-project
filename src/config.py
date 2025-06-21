@@ -1,0 +1,1 @@
+# Configuration (e.g., S3 bucket names, paths)
